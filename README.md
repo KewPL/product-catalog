@@ -19,7 +19,7 @@ Follow these steps to run the application locally on your machine:
 
 **Clone the Repository:** Start by cloning this repository to your local machine. You can do this by running the following command in your terminal:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/KewPL/product-catalog.git
 
 **Install Dependencies:** Navigate to the project's root directory and install the necessary dependencies using `npm` or `yarn`. Run one of the following commands:
 
